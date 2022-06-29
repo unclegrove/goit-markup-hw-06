@@ -20,6 +20,7 @@
 }
 
 /* Common Page Styles */
+
 body {
     font-family: var(--main-font);
     background-color: var(--bg-color-white);
@@ -55,6 +56,7 @@ button {
 }
 
 /* Party Page Reset */
+
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
@@ -82,8 +84,9 @@ img {
 
 
 /* =====================
-      HEADER SECTION
+        PAGE HEADER
    ===================== */
+
 .header.line {
     border-bottom: 1px solid #ECECEC;
 }
@@ -210,10 +213,11 @@ img {
 }
 
 /* =====================
-        MAIN SECTION
+        PAGE MAIN
    ===================== */
 
 /* Hero Section */
+
 .hero-section {
     max-width: 1600px;
     margin-right: auto;
@@ -263,6 +267,7 @@ img {
 }
 
 /* Features Section */
+
 .features-section {
     padding-top: 90px;
     padding-bottom: 90px;
@@ -303,6 +308,7 @@ img {
 }
 
 /* Job Sectiom */
+
 .job-section {
     text-align: center;
     padding-bottom: 94px;
@@ -347,6 +353,7 @@ img {
 }
 
 /* Team Section */
+
 .team-section {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -440,6 +447,7 @@ img {
 }
 
 /* Clients */
+
 .clients-section {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -497,6 +505,7 @@ img {
 .clients-link:focus .clients-icon {
     fill: var(--text-color-blue);
 }
+
 /* =====================
       FOOTER SECTION
    ===================== */
@@ -512,7 +521,7 @@ img {
     align-items: baseline;
 }
 
-    /* Footer Adress */
+/* Footer Adress */
 
 .footer-container-main {
     margin-right: 70px; 
@@ -566,7 +575,7 @@ img {
     color: var(--text-color-blue);
 }
 
-    /* Footer Social */
+/* Footer Social */
 
 .footer-title {
     margin-bottom: 20px;
@@ -606,7 +615,7 @@ img {
     outline: none;
 }
 
-    /* Footer Subscription */
+ /* Footer Subscription */
 
     .footer-form {
         display: flex;
@@ -671,8 +680,10 @@ img {
    =============================== */
 
 /* =====================
-     PORTFOLIO SECTION
+         PAGE MAIN
    ===================== */
+
+/* Portfolio Section */
 
 .portfolio-section {
     padding-top: 94px;
